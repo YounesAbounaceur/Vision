@@ -1,4 +1,39 @@
-Title,Company_Name,Skills,Country
+Title,Company_Name,Skills,Country,Link
+Mobile developer,OneSpan,Java;Jenkins;Agile;French;English,France,https://www.linkedin.com/jobs/search/?currentJobId=1749491788&keywords=mobile%20developer
+Mobile developer,FOIL,iOS_SDK;Swift;Objective-C;English,France,https://www.linkedin.com/jobs/search/?currentJobId=1870585621&keywords=mobile%20developer
+Mobile developer,Kpler,Javascript;UI;data_structures;English;Algorithms,https://www.linkedin.com/jobs/search/?currentJobId=1658144782&keywords=mobile%20developer
+Mobile developer,Nokia,TCP/IP;Python;C++;Android;MySQL;Trust;Multi_processing;Telecom;Networking;testing,France,https://www.linkedin.com/jobs/search/?currentJobId=1846516779&keywords=mobile%20developer
+Mobile developer,Ogury Ltd,Objective-c;Android;SDK;iOS;English;Kotlin;Java;Swift;Gradle;Jenkins;Trevis,France,https://www.linkedin.com/jobs/search/?currentJobId=1852868900&keywords=mobile%20developer
+Mobile developer,Askin,Android;Java;Swift;Objective-C;Titanium;Xamarin;PhoneGap;Ionic;Cordova,France,https://www.linkedin.com/jobs/search/?currentJobId=1727629151&keywords=mobile%20developer
+Mobile developer,Esker France,TypeScript;ASP.NET;JavaScript;Web;C++;C#;Ionic;Cordova;Angular;Agile,France,https://www.linkedin.com/jobs/search/?currentJobId=1883863556&keywords=mobile%20developer
+Mobile developer,Dreem,Kotlin;Java;OOP;MVVM;LiveData;Automation;testing;Android;Swift;GitHub;Bluetooth;iOS,France,https://www.linkedin.com/jobs/search/?currentJobId=1889822150&keywords=mobile%20developer
+Mobile developer,Expectra,Android;XML;Java;Kotlin;iOS;Objective-C;Swift;Android;XCode;React_Native;Xamarin;Oracle;PostGreSQL;MySQL;SQL_SERVER;MCD;MPD;Merise;UML,France,https://www.linkedin.com/jobs/search/?currentJobId=1814371080&keywords=mobile%20developer
+Mobile developer,Huawei Consumer Business Group,Android;English;Chinese;communication,France,https://www.linkedin.com/jobs/search/?currentJobId=1848709918&keywords=mobile%20developer
+Mobile developer,FOIL,Objective-C;Swift;iOS,France,https://www.linkedin.com/jobs/search/?currentJobId=1870585621&keywords=mobile%20developer
+Mobile developer,SFEIR,C#;ASP.NET;Xamarin;MVC;Xamarin;Agile,France,https://www.linkedin.com/jobs/search/?currentJobId=1863134739&keywords=mobile%20developer
+Mobile developer,Ametix,Objective-C;iOS;Xcode;Android;HTML;CSS;Java;JavaScript;Cordova;Xamarin,France,https://www.linkedin.com/jobs/search/?currentJobId=1768211652&keywords=mobile%20developer
+Mobile developer,World Health Organization,Android;HTTP;REST;iOS,France,https://www.linkedin.com/jobs/search/?currentJobId=1844646480&keywords=mobile%20developer
+Mobile developer,Biggerpan,Android;IOS;NLP;Java;Kotlin;TensorFlow;CoreML;Javascript,France,https://www.linkedin.com/jobs/search/?keywords=mobile%20developer&start=25
+Mobile developer,Yodea Recrutement,Swift;Ionic;Agile,France,https://www.linkedin.com/jobs/search/?currentJobId=1822399692&keywords=mobile%20developer&start=25
+Mobile developer,La Relève,UX;UI;React_Native;React;NodeJS;GraphQL;Docker;Linux,France,https://www.linkedin.com/jobs/search/?currentJobId=1881994156&keywords=mobile%20developer&start=25
+Mobile developer,MobiappsFr,UX;Cordova;Ionic;Angular;Flutter;React_Native;MVVM;MVI;Agile;Scrum;Kamban;Jira;Confluence;Git;Gitlab;CI/CD;Jenkins,France,https://www.linkedin.com/jobs/search/?currentJobId=1773537083&keywords=mobile%20developer&start=25
+Mobile developer,Sogia Systeme,DevOps;iOS;Agile,France,https://www.linkedin.com/jobs/search/?currentJobId=1884097519&keywords=mobile%20developer&start=25
+Mobile developer,Harnham,Golang;Node.js;NoSQL;CassandraDB;AWS;Kubernetes;Docker,France,https://www.linkedin.com/jobs/search/?currentJobId=1843272345&keywords=mobile%20developer&start=25
+UX designer,Gfi world,ContentSquare;hotjar;google_analytics;Brainstorming;Impact_Mapping;Persona;UX_Map;Photoshop;Illustrator;Sketch;XD;;Balsamiq,France,https://www.linkedin.com/jobs/search/?currentJobId=1793250872&geoId=105015875&keywords=UX%20designer&location=France
+UX designer,SPAREKA,XD;Illustrator;Photoshop;HTML;CSS;Bootstrap;jQuery;SASS;git;JavaScript,France,https://www.linkedin.com/jobs/search/?currentJobId=1834645239&geoId=105015875&keywords=UX%20designer&location=France
+UX designer,TAK,Scrum;Design;UX;Kanban;testing,France,https://www.linkedin.com/jobs/search/?currentJobId=1862648764&geoId=105015875&keywords=UX%20designer&location=France
+UX designer,World of Digits,Wireframing;Design;Audit;Graphiques;UX,France,https://www.linkedin.com/jobs/search/?currentJobId=1862638039&geoId=105015875&keywords=UX%20designer&location=France
+UX designer,ITNOVEM,Design;UX;Sketch;Axure;Invision;Zeplin;Photoshop;Wireframing,France,https://www.linkedin.com/jobs/search/?currentJobId=1857275650&geoId=105015875&keywords=UX%20designer&location=France
+UX designer,FNAC DARTY,Axure;invision;sketch;Design;UX,France,https://www.linkedin.com/jobs/search/?currentJobId=1877738385&geoId=105015875&keywords=UX%20designer&location=France
+UX designer,Ubisoft,UX;UI;Sketch;Axure;English;Python;ActionScript,France,https://www.linkedin.com/jobs/search/?currentJobId=1882660837&geoId=105015875&keywords=UX%20designer&location=France
+UX designer,Shift Technology,UX_process;UX_research;UX_design;UI_design;English;French,France,https://www.linkedin.com/jobs/search/?currentJobId=1892240943&geoId=105015875&keywords=UX%20designer&location=France
+UX designer,FYTE,UX;UI;Sketch;France,https://www.linkedin.com/jobs/search/?currentJobId=1864064764&geoId=105015875&keywords=UX%20designer&location=France
+UX designer,Danone,communication;UX;UI;Agile;Scrum,France,https://www.linkedin.com/jobs/search/?geoId=105015875&keywords=UX%20designer&location=France&start=25
+UX designer,Niryo,iOS;Android;web;Illustrator;Photoshop;InDesign;Sketch;InVision;XD;Figma;After_Effects;Premiere,France,https://www.linkedin.com/jobs/search/?currentJobId=1888412659&geoId=105015875&keywords=UX%20designer&location=France&start=25
+UX designer,Ecedi,HTML;CSS;Javascript,France,https://www.linkedin.com/jobs/search/?currentJobId=1767484576&geoId=105015875&keywords=UX%20designer&location=France&start=25
+UX designer,Banque Casino,UX;XD;Photoshop;Illustrator;testing;AB_tasty;HTML;CSS;SEO,France,https://www.linkedin.com/jobs/search/?currentJobId=1864481133&geoId=105015875&keywords=UX%20designer&location=France&start=25
+UX designer,Clever Age,Adobe;Sketch;Axure;Marvel_App;InVision;Axure;Framer_JS,France,https://www.linkedin.com/jobs/search/?currentJobId=1877798824&geoId=105015875&keywords=UX%20designer&location=France&start=25
+UX designer,DOCAPOSTE,UX;UI;Sketch;Adobe;web,France,https://www.linkedin.com/jobs/search/?currentJobId=1878229416&geoId=105015875&keywords=UX%20designer&location=France&start=25
 web developer,L'Oréal,web_development;MVC;GIT;testing;Gulp;Webpack;JIRA;English;communication,France
 web developer,Ubitransport,VueJS;HTML;CSS;Javascript;standards W3C;responsive_design;PHP;LESS;SASS;D3;Leaflet;Highcharts;Photoshop;Illustrator;Git,France
 web developer,Ubisoft,Javascript;ES 2015;Typescript;NodeJS;Electron;C#;software_architecture;React;Redux;WebPack,France
@@ -151,7 +186,7 @@ Software engineer,Nokia,C++;VxWorks;Linux;BSP;Ethernet;Git,France
 Software engineer,AXA,React;AngularJS;VueJS;C#;.NET_Core,France
 Software engineer,Thales,Python;DOORS;GIT;JIRA;TCP/IP;Agile,France
 Software engineer,Incremys,JAVA;Spring;Mongo;Docker;REST;Gitlab;HTTP;JavaScript;AngularJS,France
-Software engineer,OCTO_Technology,Java;JS;PHP;Python;C#;web;mobile;Cloud;IoT;TDD,France
+Software engineer,OCTO_Technology,Java;javascript;PHP;Python;C#;web;mobile;Cloud;IoT;TDD,France
 Software engineer,Dataiku,Selenium;Big_Data;UI;testing,France
 Software engineer,JCDecaux,Scrum;Agile;English;AngularJS,France
 Software engineer,Robinson,DOM;TOM;Windows;MSSQL;Citrix,France
@@ -195,7 +230,7 @@ Software engineer,Selescope,OpenAPI;Python;MongoDB;Cassandra;KubeApp;HELM;OTT;HL
 Software engineer,Upskills,TCP/IP;HTTP;DNS;VPN;Python;Ansible;Salt;Puppet;Docker;K8s;EKS;ECS;English,France
 Software engineer,Ledger,Rust;C++;Git;Blockchain,France
 Software engineer,Atos,Ethernet;Interconnect;Infiniband;Melanox;Cisco;Puppet;Ansible,France
-BI consultant,OPEN,ETL;Talend;Datastage;SSIS;Informatica;Powercenter;Microsoft_SQL_Server;Oracle;SSAS;IBM_TM1;SAP_BW;reporting;Cognos;Data_visualisation;Qlikview;Qliksense;Tableau;Power_BI;Spotfire;Lumira;SAP_BPC;Anaplan;Tagetik;Jedox;Hyperion_Planning,France
+BI consultant,OPEN,ETL;Talend;Datastage;SSIS;Informatica;Powercenter;Microsoft_SQL_Server;Oracle;SSAS;IBM_TM1;SAP_BW;reporting;Cognos;Data_visualisation;Qlikview;Qliksense;Tableau;Power_BI;Spotfire;Lumira;SAP_BPC;Anaplan;   ;Jedox;Hyperion_Planning,France
 BI consultant,Gfi_world,SSAS;SSIS;Microsoft_SSRS;SQL_SERVER;TERADATA;POWER_BI;Azure;Informatica;Datastage;ODI;Power_BI,France
 BI consultant,Altran,Nerf_Elite;Nerf_Hyperfire;Nerf_Titan;ETL;Talend;SSIS;Apache_Kafka;SAS;Tableau;Power_BI;QlikSense;DigDash;Kibana;Dataiku;Alteryx;RapidMiner;R;Python;datawarehouse;Datamart;Cube;SQL,France
 BI consultant,Astek,SSIS;SSAS;SQL_Server,France
@@ -248,7 +283,3 @@ BI consultant,POLARYS,SSIS;SSAS;SSRS;SQL_Server;English,France
 BI consultant,HARDIS_GROUP,BI;Talend;Tableau;MSBI;SSIS;SSRS;SSAS;Power_BI;Informatica,France
 BI consultant,Groupe_LIP,Data_visualisation;SQL_Server;SSIS;SSAS;SSRS;Power_BI,France
 BI consultant,ESENS,ETL;reporting;Talend;SSIS;Datastage;Microstrategy;SSRS;BO,France
-
-
-
-
