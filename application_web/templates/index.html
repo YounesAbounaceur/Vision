@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Vision</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/custom-bs.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/jquery.fancybox.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap-select.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='fonts/icomoon/style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='fonts/line-icons/style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/owl.carousel.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/animate.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">    
+  </head>
+  <body id="top">
+
+
+<div class="site-wrap">
+
+    <div class="site-mobile-menu site-navbar-target">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div> <!-- .site-mobile-menu -->
+    
+
+    <!-- NAVBAR -->
+    <header class="site-navbar mt-3">
+      <div class="container-fluid">
+        <div class="row align-items-center">
+          <div class="site-logo col-6"><a href="index.html"><img width="160" height="80" src={{url_for('static', filename='images/logo.png')}} alt=""></a></div>
+
+          <nav class="mx-auto site-navigation">
+            <ul class="site-menu js-clone-nav d-none d-xl-block ml-0 pl-0">
+              <li><a href="index.html" class="nav-link active">Accueil</a></li>
+              <li><a href="job-listings.html">Recherche d'emploi</a></li>
+              <li><a href="certificats-listings.html">Certificats</a></li>
+              <li><a href="about.html">A propos</a></li>
+              <li class="d-lg-none"><a href="contact.html">Contactez nous</a></li>
+            </ul>
+          </nav>
+          
+          <div class="right-cta-menu text-right d-flex aligin-items-center col-6">
+            <div class="ml-auto">
+              <a href="contact.html" class="btn btn-primary border-width-2 d-none d-lg-inline-block"><span class="mr-2 icon-paper-plane"></span>Contactez nous</a>
+            </div>
+            <a href="#" class="site-menu-toggle js-menu-toggle d-inline-block d-xl-none mt-lg-2 ml-3"><span class="icon-menu h3 m-0 p-0 mt-2"></span></a>
+          </div>
+
+        </div>
+      </div>
+    </header>
+
+    <!-- HOME -->
+    <section class="home-section section-hero overlay bg-image" style="background-image: url({{url_for('static', filename='images/bg_1.jpg')}});" id="home-section">
+
+      <div class="container">
+        <div class="row align-items-center justify-content-center">
+          <div class="col-md-12">
+            <div class="mb-5 text-center">
+              <h1 class="text-white font-weight-bold">Vision sur l'avenir</h1>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      
+    </section>
+    
+
+    
+    <section class="site-section bg-light services-section block__62849" id="fonctionnality-section">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-6 col-md-6 col-lg-4 mb-4 mb-lg-5">
+
+            <a href="#site-section" class="block__16443 text-center d-block">
+              <span class="custom-icon mx-auto"><span class="icon-magnet d-block"></span></span>
+              <h3>Tendances</h3>
+              <p>Les comp&eacute;tences les plus recherch&eacute;es.</p>
+            </a>
+
+          </div>
+          <div class="col-6 col-md-6 col-lg-4 mb-4 mb-lg-5">
+
+            <a href="certificats-listings.html" class="block__16443 text-center d-block">
+              <span class="custom-icon mx-auto"><span class="icon-search d-block"></span></span>
+              <h3>Certificats n&eacute;cessaires</h3>
+              <p>Les meilleurs certificats pour votre carri&egrave;re.</p>
+            </a>
+
+          </div>
+          <div class="col-6 col-md-6 col-lg-4 mb-4 mb-lg-5">
+
+            <a href="job-listings.html" class="block__16443 text-center d-block">
+              <span class="custom-icon mx-auto"><span class="icon-laptop d-block"></span></span>
+              <h3>Suggestion d'offre</h3>
+              <p>Les meilleures offres pour vous.</p>
+            </a>
+
+          </div>
+
+        </div>
+
+
+      </div>
+    </section>
+
+
+     <section class="site-section" id="site-section">
+      <div class="container">
+
+        <div class="row mb-5 justify-content-center">
+          <div class="col-md-7 text-center">
+            <h2 class="section-title mb-2">Les comp&eacute;tences les plus recherch&eacute;es du march&eacute;:</h2>
+          </div>
+        </div>
+
+
+
+        <div class="mb-5">
+
+          {% for a in list_top_skills %}
+          <div class="row align-items-center job-item border-bottom pb-3 mb-3 pt-3">
+              <h3>{{a}}</h3>
+          </div>
+          {% endfor %}
+
+
+        </div>
+
+
+      </div>
+    </section>
+
+    
+
+
+
+    <!--<section class="bg-light pt-5 testimony-full">
+        
+
+        
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-6 mx-auto">
+              </div>
+            </div>
+          </div>
+
+
+    </section>-->
+
+    
+    <footer class="site-footer">
+
+      
+      <div class="container">
+
+        <div class="row text-center">
+          <div class="col-12">
+            <p>
+              Copyright &copy;
+              <script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i
+                class="icon-heart-o" aria-hidden="true"></i> by Colorlib
+              <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+  
+  </div>
+
+    <!-- SCRIPTS -->
+    <script src="{{url_for('static', filename='js/jquery.min.js')}}"></script>
+    <script src="{{url_for('static', filename='js/bootstrap.bundle.min.js')}}"></script>
+    <script src="{{url_for('static', filename='js/isotope.pkgd.min.js')}}"></script>
+    <script src="{{url_for('static', filename='js/stickyfill.min.js')}}"></script>
+    <script src="{{url_for('static', filename='js/jquery.fancybox.min.js')}}"></script>
+    <script src="{{url_for('static', filename='js/jquery.easing.1.3.js')}}"></script>
+    
+    <script src="{{url_for('static', filename='js/jquery.waypoints.min.js')}}"></script>
+    <script src="{{url_for('static', filename='js/jquery.animateNumber.min.js')}}"></script>
+    <script src="{{url_for('static', filename='js/owl.carousel.min.js')}}"></script>
+    
+    <script src="{{url_for('static', filename='js/custom.js')}}"></script>
+
+     
+  </body>
+</html>

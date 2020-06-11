@@ -1,0 +1,285 @@
+Title,Company_Name,Skills,Country,Link
+web developer,L'Oréal,web_development;MVC;GIT;testing;Gulp;Webpack;JIRA;English;communication,France
+web developer,Ubitransport,VueJS;HTML;CSS;Javascript;standards W3C;responsive_design;PHP;LESS;SASS;D3;Leaflet;Highcharts;Photoshop;Illustrator;Git,France
+web developer,Ubisoft,Javascript;ES 2015;Typescript;NodeJS;Electron;C#;software_architecture;React;Redux;WebPack,France
+web developer,Bowo,HTML;CSS;AWS;English;French,France
+web developer,Quai_13,iOS;Android;PHP;git;Wordspress;Drupal;Prestashop,France
+web developer,AB_tasty,HTML;CSS;web_design;IT;English;French;Spanish;German,France
+web developer,Institut_F2I,Symfony2;MySQL;PHP;HTML;CSS;jQuery;Javascript,France
+web developer,PLES_Convergence,Java;PHP;NodeJS;SQL Server;MySQL;MongoDB;PostgreSQL;HTML;CSS;Javascript;AngularJS;Spring;Hibernate;Maven;SVN;Highchart;Python;Django,France
+web developer,SFEIR,DOM;Javascript;TypeScript;CSS;AngularJS;React,France
+web developer,TIMMXWARE,Javascript;CSS;HTML;NodeJS;React,France
+web developer,Discngine,Oracle_Database;PL/SQL;SQL;HTML;CSS;Javascript;REST Web;Oracle;Python;R;Perl;Ruby;Git,France
+web developer,L'Acoustics,UX;UI;Agile;PHP;jQuery;Wordpress;Magento;SQL,France
+web developer,Easycom,CMS;Git;CSS;SASS;jQuery;Javascript;HTML;Agile;Scrum,France
+web developer,Mapotempo,RubyOnRails;React;Android;Ruby;Javascript;Java;C++;DevOps;Docker;Swarm;Laravel;R&D;Django,France
+web developer,Cyllene,MySQL;PHP;Symfony;Bootstrap;JQuery;VueJS;React;Docker;Apache/Nginx;Gitlab;CI/CD,France
+web developer,Kpler,VueJs;Mapboxgl;D3js;Typescript;VueJs;D3js;Mapboxgl;RESTful API;Python;Go;Scala;Postgresql;ElasticSearch,France
+web developer,Twilio_Inc,Python;Java;Javascript,France
+web developer,Tiller,AWS;Product Management;DevOps;React;API_REST;Agile;Docker;AngularJS;Java,France
+web developer,SendinBlue,HTML;SASS;CSS;PHP;MySQL;Javascript;WordPress;Jira;Linux;Nginx;Docker;TDD,France
+web developer,Amplitude Studios,Javascript;AngularJS;React;Vue.js;HTML;CSS;SCSS/LESS;Git;After Effect;Web Design;Invision;Figma;HTML;CSS,France
+web developer,Discngine,Agile;Scrum;Oracle_Database;PL/SQL;SQL;HTML;CSS;Javascript;REST;web_services;Python;R;Perl;Ruby;Git,France
+web developer,EasyMile,HTML;TypeScript;Javascript;CSS;R&D;Agile;UX,France
+web developer,Altran,HTML;CSS;PHP;jasmine;karma;protractor,France
+web developer,SFEIR,RamdaJS;React;Redux;Javascript;React;AngularJS;VueJS,France
+web developer,Expectra,Node.js;React;Javascript;MySQL,France
+web developer,Hays,Linux;Apache;PHP;HTML;CSS;Javascript;VueJS;Natif;jQuery;Git;MySQL,France
+web developer,ING France,HTML;CSS;jenkins;Ansible;TFS;Artifactory;Gitlab;Node;Visual Code;Redux;PWA;Lighthouse;Grunt;Polymer_CLI;REST;GraphQL;React_Native;Maven;Java;Scala,France
+web developer,Sketchfab,Python;Celery;Postgres;Elasticsearch;Redis;UNIX,France
+web developer,Kubota,PHP;Apache Solr;Gitlab;Drupal;Javascript;CMS;Javascript;SAP;HTML;CSS;RESTful;React,France
+web developer,Boostmyshop,Magento;PrestaShop;Shopify;SASS;DevOPS;Scrum;Kanban;AngularJS;React;Vue;UX;UI;Git;HTML;CSS;SEO;PHP,France
+web developer,beCPG,HTML;CSS;Javascript,France
+web developer,PLES_Convergence,PHP;Java;Javascript;HTML;CSS;SQL_SERVER;MySQL;PostgreSQL;MongoDB;Python;Django,France
+web developer,FEELINJOB,Agile;Python;Django;Vue.js;Docker;Kubernetes;Blockchain,France
+web developer,Doranco,HTML;CSS;PHP;Javascript;JQuery;MySQL;Cordova;WordPress;Drupal;Photoshop;UI;UX;Illustrator;InDesign,France
+web developer,Apizee,Symfony;Laravel;Android,France
+web developer,Groupe_HN,HTML;CSS;AngularJS;PHP,France
+web developer,Infinite_Square,ASP.NET;Azure_Paas,France
+web developer,CybelAngel,API;VueJS;VueX;VueRouter;ChartJS;VueJS;Docker;GCP;NoSQL;Scrum;Python;Kubernetes;Datadog;Gitlab_CI;RabbitMQ;Elasticsearch;Mongo;Redis;BigQuery,France
+web developer,Radio,Symfony;Drupal;DOM;SASS;React,France
+web developer,Conserto,AngularJS;React;Vue.JS;Polymer;Node.JS;Express;Mocha;Jasmine;Docker;Rocket;SASS,France
+web developer,Ciril_GROUP,Agile;Leadership;Java;DevOPS;UML,France
+web developer,Sketchfab,Python;Celery;Postgres;Elasticsearch;Redis;UNIX;English,France
+web developer,ShareGroop,TDD;SASS;Microservices;NodeJS;Serverless;Cloud_Amazon;CI/CD;Agile;Pair_programming;UI;UX,France
+web developer,wenab,AngularJS;Java;Spring_Boot;Hibernate;Postgres;Elasticsearch;Nginx;GIT;AWS,France
+web developer,GETRALINE,Symfony;NodeJS;SQL;PgSQL;MySQL;PostgreSQL;MongoDB;Ecmascript;React;Responsive_design;MCD/MPD;HTML;CSS,France
+web developer,KELTIS,JSP;Javascript;HTML;CSS;MySQL;SEO;JSP;Java,France
+web developer,Adsearch,Visual_Studio;HTML;CSS;Javascript;AngularJS;React;Bootstrap,France
+web developer,VISEO,Javascript;React;HTML;CSS;Json;Git;GitHub;Scrum;Kanban;Firebase;Rx;Redux;ReactNative;ES6;TypeScript;NodeJS;Elm;Dart;Flutter;Jasmine;Karma;GraphQL;MongoDB;CouchBase;Codeship;Jenkins;SonarQube;AWS;Google_Cloud_Platform;Chromecast;Chromebit,France
+Data scientist,Harnham,Python;C++;Machine_learning,France
+Data scientist,Fujitsu,Machine_learning;Deep_learning;Python;SQL;Tensorflow;French;English,France
+Data scientist,Reezocar,Pandas;Numpy;Scikit;Python;Spark,France
+Data scientist,Altran,R;Python;Java;C++,France
+Data scientist,digiRock,Python;R;Google_Cloud_Platform;Google_Data_Studio,France
+Data scientist,Sept_Lieues,Python;Java;Scala;NLP,France
+Data scientist,DATACORP,QlikSense;QlikView;Machine_learning,France
+Data scientist,IQVIA,Python;R;SQL;NLP;ETL;data_modelling;RDBMS;MicroStrategy;Power_BI;Tableau;Shiny;GDPR;English,France
+Data scientist,EDF,Agile;Scrum;Data_Science;Python;SQL,France
+Data scientist,SILKHOM,R;Python;Docker;Azure;Scikit-learn;Numpy;SQL;NoSQL;regression;classification;clustering;Deep_learning,France
+Data scientist,Gruner_+_Jahr GmbH,Scrum;Kanban;Python;NumPy;SciPy;Pandas;Scikit-Learn;Git;GCP;AWS;SQL;Oracle_Database;NoSQL,France
+Data scientist,EOS_France,Python;SQL;R;English,France
+Data scientist,Banque_de_France,BI;Big_Data;Data_Science;Proof_Of_Concept,France
+Data scientist,Datadog,SQL;Algebra;R;Python;Julia;Spark;Hadoop;Machine_learning,France
+Data scientist,Thales,IHM;Big_Data;BI,France
+Data scientist,Veolia,Big_Data;Machine_learning;SASS;GCP;IOT;API;Neural_Networks,France
+Data scientist,itk,Scrum;Pandas;NumPy;Machine_learning;Sklearn;Deep_learning;Gitlab;testing;keras;Tensorflow,France
+Data scientist,Kayrros,Machine_learning;Deep_learning;NLP;signal_processing;English,France
+Data scientist,Hays,DevOps;Gatling;Postman;Jira;plugin_X-Ray;Javascript;Node;Python,France
+Data scientist,FeetMe,Neural_Networks;data_modelling;Machine_learning;Java;Python;Oracle_Database,France
+Data scientist,ABAKA,NLP;NLU;Statistics;Machine_learning;Spacey;Git;Keras;Tensorflow;CNTK;AWS;Azure;R;English;NLTK,France
+Data scientist,Corcentric,Artificial_Intelligence;Machine_learning;NLP;Data_extraction;classification;English;French;Python;R;Spacy;BERT;LSTM;reinforcement_learning;data_warehouse,France
+Data scientist,Urban_Linker,Python;C++;R;Spark;Scala;Cassandra;Hadoop;Machine_learning,France
+Data scientist,Laou,Machine_learning;Deep_learning;Python,France
+Data scientist,L'Oréal,Data_science;Artificial_Intelligence;UX;UI;Data_engineering;Big_Data;Cloud_architecture,France
+Data scientist,Davidson,Hadoop;Spark;Big_Data;R;Python,France
+Data scientist,AOSIS,Statistics;Machine_learning;R;Python;Hive;Spark;Hadoop,France
+Data scientist,Eureca,HTML;Java;CSS;NLP,France
+Data scientist,BI_consulting,SQL;R;Python;SPSS;SAS,France
+Data scientist,Bolden,Machine_learning;Big_Data;R;Python;Data_science;Big_Data,France
+Data scientist,Allianz,Big_Data;Artificial_Intelligence,France
+Data scientist,LeLynx.fr,Tableau;R;Python;Machine_learning;Data_visualisation;Statistics;SQL;Optimisation,France
+Data scientist,Avanade,Keras;Shiny;ggplot2;plotly;Bokeh;PySpark;sparklyr;SparkR;NLP;Tensorflow;Hadoop;R;Python,France
+Data scientist,LaFinBox,C++;R;Stata,France
+Data scientist,Emerton,Python;R;SQL;Scala;Machine_learning;Statistics,France
+Data scientist,Wavestone,NLP;Deep_learning;Topic_modeling;Computer_Vision;Data_Lab;Python;R,France
+Data scientist,EXTERNATIC,Python;Machine_learning;Statistics,France
+Data scientist,LINCOLN,R;Python;GitHub;Gitlab;English;Azure;C3;R;Python;Shiny;Kubernetes;Power_BI;C3,France
+Data scientist,Shift_Technology,Big_Data;Machine_learning,France
+Data scientist,BIAL-R,Python;R;Java;Spark;Scala;Machine_learning,France
+Data scientist,Optic_2000,NoSQL;R;Python;Postgresql;Statistics,France
+Data scientist,PRESANS,Web_scraping;Machine_learning;Data_mining;Java;R;Python;Weka;SparkML;Caret;Scikit;TensorFlow;SVN;ElasticSearch;PostGreSQL;Docker,France
+Data scientist,Kynapse,MVP;HTML;CSS;Node;Python;Linux;MongoDB;Docker;ElasticSearch,France
+Data scientist,iSOF,Big_Data;Data_science;Java;C++;JavaScript;HTML;CSS;R;Python,France
+Data scientist,DSOgroup,Statistics;Machine_learning,France
+Data scientist,Astek,BI;SQL;PL/SQL;Hadoop;Big_Data,France
+Data scientist,Ledger,Big_Data;Machine_learning;Statistics;Algorithms;SQL,France
+Data scientist,CreditJob,SQL;NoSQL;MongoDB;Machine_learning;AWS,France
+Data scientist,SCOR,Machine_learning;Data_analytics;Azure;R;Python;NLP;SQL,France
+Data scientist,SQLI,SAP_BI4;Microsoft_BI;Oracle;Talend;Informatica;QlikSense;Digdash;Spotfire;HortonWorks;Cloudera;Spark;Flink;Python;R;;SQL;Java;Hbase;Neo4J,France
+Data scientist,SocialWall.me,Python;MongoDB;SQL;Data_mining;Machine_learning;Keras;Flask,France
+Data scientist,ALTAIDE,Java;Spark;Hadoop;Hbase;BigQuery;BigTable;Elasticsearch;MongoDB;Python;GIT;CI;Kubernetes;DataProc,France
+Security engineer,Ledger,Java;C#;C++;Go;Scala;Node.JS;Scrum;XP;Kanban;Scripting,France
+Security engineer,Synopsys_Inc,C;C++;Java;C#;Objective-C;JavaScript;Ruby;Perl;Python;CI/CD;CEH;CISSP/CSSLP;Agile;Proof_Of_Concept;French;English,France
+Security engineer,EXFO,Ansible;Shell;Python;PowerShell;RHEL;CentOS;Azure;OpenStack;VMWare,France
+Security engineer,Back_Market,OWASP_SAMM;OWASP_ASVS;DevOps,France
+Security engineer,Sunlog,AWS;Azure;English,France
+Security engineer,Qualys,TCP/IP;BGP;OSPF;EIGRP;STP;Oracle_Database;DNS;NFS;NIS/NIS+;Azure;AWS;Java;SaaS,France
+Security engineer,NTT_Ltd,NAC_Cisco_ISE;Palo_Alto;Fortinet;ASA;Python;Ansible,France
+Security engineer,Fortinet,VMWare;Microsoft;Linux;SIEM;Firewalling;English,France
+Security engineer,Symphony.com,Java;J2EE;Spring_Framework;REST;NoSQL,France
+Security engineer,jobleads.de,OWASP;WSTG;OWASP;SAMM;OWASP;ASVS;CSVS;DevOps;GWAPT;GWEB;GPEN;OSCP;CEH;GCIH;GCFA;WS;GCP;Kubernetes;Terraform;Terragrunt;Datadog;Spinnaker;Cloudflare;Docker;Aurora,France
+Security engineer,Talend,Java;Scala;Javascript;Python;React;AWS;Azure;Cybersecurity;English;French,France
+Security engineer,HomeSend,Scan_Analysis;ASV;IPT;EPT;Nessus;SNORT;SPLUNK;FreeIPA;Kerberos;Python;OpenVPN;OpenVPN;Windows_administration;LAN,France
+Security engineer,Doctolib,Linux;Python;AWS;French;English,France
+Security engineer,Datadog,Golang;Python;Ruby;communication,France
+Security engineer,Ericsson,ISO_2700x;COBIT;NIST-800;X.805;ANSI;IETF;ITU-T;3GPP;ETSI;DevOPS;ISO;IEC;ITIL;CISSP;CCIE;CHFI;CompTIA_Security+;CEH;GSEC;OSCP,France
+Security engineer,Famoco,Java;C;C++;Android;English,France
+Security engineer,SYMPHONY_COMMUNICATION,Java;J2EE;Spring;NoSQL;Cybersecurity;REST,France
+Security engineer,Aircall,Git;data_privacy;GDPR;Cybersecurity;Agile,France
+Security engineer,PayPal,JavaScript;Node.JS;PHP;Java;REST;SOAP;NVP;Android;iOS;C,France
+Security engineer,NTT Ltd,MCS; MCSfM;Scripting;Python;Perl;ITIL;CCNA-WL;CCNA-R/S;CCNA-SEC;MCSA;MCSE;RHEL;VCP;RCSA-W;CCIE;Microsoft_Certified_Master,France
+Security engineer,Proximus_Luxembourg,IP;OSPF;EIGRP;BGP;RSTP;MSTP;HSRP;VRRP;IPv6;GRE;mGRE;L3-4;L7;QoS;Wifi;VPN_IPSec;VPN_SSL;IOS;IOS-XE;NXOS;ASA;Linux;Windows,France
+Security engineer,Polyconseil,Python;Docker;Kubernetes;Aws;Linux;DevOPS,France
+Security engineer,lumapps,Python;Javascript;Go,France
+Security engineer,Freelance-info.fr,Palo_Alto;Networking;HLD/LLD;CCNP/CCIE;French,France
+Security engineer,Odaseva,English;French;ISO_27001LA/LI;ISO_27005;C,France
+Security engineer,Dailymotion,ISO2700x;EBIOS;ITIL;data_privacy;Azure;PHP;Go;Python;JQuery;GraphQL;OAuth;Kubernetes;Docker;GCP;Ubuntu;JamF;LastPass;OpenVPNplunk;BigQuery;Pandas;Nessus;Suricata,France
+Security engineer,Néo-Soft_Groupe,data_privacy;ISO_27001;OWASP,France
+Security engineer,IC_Resources,Assembler;C;RF;NB-IoT;SigFox;Lora;Bluetooth_LE;BLE;Wifi;GPS;Zigbee,France
+Security engineer,TIBCO_Orchestra_Networks,UML;Java;C++;C#;PostgreSQL;Linux;Scala;Oracle_Database;SQL,France
+Security engineer,Ledger,Scala;C++;NodeJS;Scrum;CI/CD;XP;Kanban;English;Python,France
+Security engineer,Ledger_SAS,Scala;C++;NodeJS;cryptography;HSM;CI/CD;GraphQL;RESTful;XP;Scrum;Python;English,France
+Security engineer,Synopsys_Inc,C;C++;Java;C#;Objective-C;JavaScript;Ruby;Python;Proof_Of_Concept;CEH;CISSP;CSSLP,France
+Security engineer,Aptible,PagerDuty;Ruby;Docker;PostgreSQL;MySQL;Redis;AWS;SRE,France
+Security engineer,Vivid_Resourcing_Ltd,Cybersecurity;proxy;Firewalling;RFC;Leadership,France
+Security engineer,EliteCyber_Group,CISSP;CISM;GIAC-GSE;GCIH;GCFA;MCAFFE;CyberArk;Palo_Alto;Networking;English,France
+Security engineer,Kudelski_Security,CISSP;CISA;CISM;ISO_27001;loud_Security;Managed_Services;Application_Security,France
+Security engineer,Neosoft_Solutions,ISO_27005;ISO 27001;PSSI;CIS;CISSP;CISSM,France
+Security engineer,MYDATAMODELS,TDD;BDD;Gitlab;Cloud;Oracle_Database;Git;Microservices;English;Agile,France
+Security engineer,Apple,Assembly;C;iOS;macOS;cryptography;ARM,France
+Security engineer,Nokia,IoT;NoSQL;MySQL;cryptography;Blockchain;Hyperledger;Ethereum,France
+Security engineer,SAP,English;DevOPS;CI/CD;French;German;Python;JavaScript;Java,France
+Security engineer,Alstom,LAN;Wifi;CCNP;Firewalling;MPLS,France
+Security engineer,AXA_Group,Cybersecurity;English;French;Agile,France
+Software engineer,Contentsquare,TypeScript;JavaScript;Scrum;Agile;Jenkins;React;testing;TDD;AngularJS;Automation,France
+Software engineer,JCDecaux,Agile;Scrum;AngularJS;English,France
+Software engineer,Robinson,DOM;TOM;MSSQL;English,France
+Software engineer,EXFO,Java;Python;Linux;Jenkins;Big_Data,France
+Software engineer,Société_Générale,GitHub;Jenkins;Nexus;Ansible;Openshift;AWS;Azure,France
+Software engineer,Nokia,C++;VxWorks;Linux;BSP;Ethernet;Git,France
+Software engineer,AXA,React;AngularJS;VueJS;C#;.NET_Core,France
+Software engineer,Thales,Python;DOORS;GIT;JIRA;TCP/IP;Agile,France
+Software engineer,Incremys,JAVA;Spring;Mongo;Docker;REST;Gitlab;HTTP;JavaScript;AngularJS,France
+Software engineer,OCTO_Technology,Java;javascript;PHP;Python;C#;web;mobile;Cloud;IoT;TDD,France
+Software engineer,Dataiku,Selenium;Big_Data;UI;testing,France
+Software engineer,JCDecaux,Scrum;Agile;English;AngularJS,France
+Software engineer,Robinson,DOM;TOM;Windows;MSSQL;Citrix,France
+Software engineer,EXFO,Big_Data;DevOPS;Horton;Cloudera;HDInsight;ElasticSearch;Kubernetes;Java;Python;Linux;Jenkins,France
+Software engineer,Thales,DOORS;GIT;JIRA;TCP/IP;Agile,France
+Software engineer,FairMoney,Ruby;Python;GCP;data_warehouse;MySQL;BigQuery;AWS;PHP;NodeJS;testing;GO,France
+Software engineer,Teads,Machine_learning;Kafka;MySQL;NoSQL;JVM,France
+Software engineer,Margo,AWS;Azure;Python;AngularJS;Docker;SPLUNK;ElasticSearch,France
+Software engineer,Synertic,Java;Objective-C;iOS;Android;HTML;CSS;JavaScript;Swift,France
+Software engineer,FactSet,GitHub;Java;VueJS;JavaScript,France
+Software engineer,Aircall,REST;English;Java,France
+Software engineer,Novii_Design,C#;Python;Java;Ruby;Go;Haskell;NodeJS;Javascript;ELM;Kotlin;Swift;React;VueJS;English;Backbone;.Net_Core;Django;Spring,France
+Software engineer,Bolden,C#;SQL_Server;CosmosDb;ServiceBus;Azure,France
+Software engineer,Symphony.com,Jasmine;Agile;Scrum;TCP/IP;HTTP;HTML;CSS;XML;JavaScript;REST;AWS;GCP;Docker;Tomcat;Hazelcast;Google_PubSub;SpringBoot;REST;DynamoDB;Yeoman;Terraform;MongoDB,France
+Software engineer,Zenly,Go;GraphQL;C++;GKE;Kubernetes,France
+Software engineer,Checkout.com,.NET_Core;ASP.NET;RESTful;NoSQL;SQL;English;C#;CI/CD;AWS;Microservices;TDD;Agile,France
+Software engineer,OCTO_Technology,Java;JavaScript;PHP;Python;C#;Cloud;Android;web;TDD,France
+Software engineer,Altran,C;Autosar;MotorDrive;Python;Matlab;German;French,France
+Software engineer,Calypso_Technology,Java;C#;C++;English,France
+Software engineer,PLES_Convergence,Git;GitHub;Jira;C++;Linux;CMake;C++;DevOPS,France
+Software engineer,Easy_Partner,AWS;Ansible;Terraform;Python;Flask;Javascript;React;PostgreSQL;SQL;Git,France
+Software engineer,Freelance-info.fr,JVM;Cloud;AngularJS;C#;Go;English,France
+Software engineer,Agorize,Javascript;Python;HTML;CSS;Zapier;Phantombuster;Google_Analytics;Google_Tag_Manager,France
+Software engineer,Inteam_sas,Angular.Js;React.Js;Java;Spring;NodeJs;Oracle,France
+Software engineer in Test,Dashlane,testing;Cypress;Puppeteer;Selenium;English;Gitlab;Jenkins;Bamboo,France
+Software engineer,Wiley_Job_Network,JavaScript;HTML;CSS;C#,France
+Software engineer,JCDecaux,AngularJS;Scrum;web_design;English;DevOps;Go,France
+Software engineer,Scaleway,C;C++;Java;CMake;HW;SATA;NVMe;DNS;HTTP;TLS;Linux,France
+Software engineer,SFEIR,Python;Docker;Cloud;DevOPS;Scripting;Kubernetes;Terraform;GCP,France
+Software engineer,Front,Python;JavaScript;Docker;ElasticSearch;Ruby;Android,France
+Software engineer,Kpler,RESTful;Go;Scala;Python;ElasticSearch;VueJS;D3js,France
+Software engineer,EVS_Broadcast_Equipment,Java;Javascript;Python;C#;C++;Python;Java;JavaScript;C#;DevOPS,France
+Software engineer,WINAMAX,React;VueJS;NodeJS;Electron;Redux;Flow,France
+Software engineer,TIBCO,Java;J2EE;HTML;CSS;Tomcat;Apache_Calcite;JUnit;Jenkins;Eclipse;SQL;Selenium;JIRA;React;JavaScript;TypeScript;JIRA,France
+Software engineer,Ericsson,Java;REST;XSLT;Scrum;Agile,France
+Software engineer,Sierra_Wireless,C;C++Java;English;Git,France
+Software engineer,Meritis,Java;J2EE;AngularJS;React;Spring;Agile,France
+Software engineer,MathWorks,JavaScript;HTML;Java;C++;C#;unit;Selenium;QUnit;FuncUnit;French;English,France
+Software engineer,Zeloce,DevOps;React;SaaS;React;GraphQL;Ruby;Python;TypeScript;DevOPS,France
+Software engineer,Selescope,OpenAPI;Python;MongoDB;Cassandra;KubeApp;HELM;OTT;HLS;DASH;Git;Jenkins;R&D;Linux,France
+Software engineer,Upskills,TCP/IP;HTTP;DNS;VPN;Python;Ansible;Salt;Puppet;Docker;K8s;EKS;ECS;English,France
+Software engineer,Ledger,Rust;C++;Git;Blockchain,France
+Software engineer,Atos,Ethernet;Interconnect;Infiniband;Melanox;Cisco;Puppet;Ansible,France
+BI consultant,OPEN,ETL;Talend;Datastage;SSIS;Informatica;Powercenter;Microsoft_SQL_Server;Oracle;SSAS;IBM_TM1;SAP_BW;reporting;Cognos;Data_visualisation;Qlikview;Qliksense;Tableau;Power_BI;Spotfire;Lumira;SAP_BPC;Anaplan;   ;Jedox;Hyperion_Planning,France
+BI consultant,Gfi_world,SSAS;SSIS;Microsoft_SSRS;SQL_SERVER;TERADATA;POWER_BI;Azure;Informatica;Datastage;ODI;Power_BI,France
+BI consultant,Altran,Nerf_Elite;Nerf_Hyperfire;Nerf_Titan;ETL;Talend;SSIS;Apache_Kafka;SAS;Tableau;Power_BI;QlikSense;DigDash;Kibana;Dataiku;Alteryx;RapidMiner;R;Python;datawarehouse;Datamart;Cube;SQL,France
+BI consultant,Astek,SSIS;SSAS;SQL_Server,France
+BI consultant,Ucase_Consulting,Informatica;Talend;Datastage;Tableau;Power_BI;Qliksense;Hadoop;Spark;Kafka;Scala;Apache_Spark,France
+BI consultant,EDF,ETL.Informatica;POWER_BI;BO;Finance;Tableau;BW,France
+BI consultant,HOVAE,Qlikview;qliksense;Tableau;Microstrategy;Power_BI;Cognos;SSIS;SSAS;SSRS;Python;Hadoop;Datastage;Talend;Informatica;BODS,France
+BI consultant,jobleads.de,SQL;Stambia;Talend;ODI;QlikSense;QlikView;Tableau;BO;Power_BI;DevOPS,France
+BI consultant,KBMC,SSIS;SSAS;SSRS;QlikView;NoSQL;SQL_SERVER;BI,France
+BI consultant,SOFALI,Cognos;BI;QlikView;BO;Talend;Microstrategy;Talend;JasperSoft,France
+BI consultant,ACCELITE,BI;Tableau;Alteryx;Power_BI;Big_Data;Spark;MAPR;SQL;PL_SQL;Scrum;data_modelling;Scala;Tableau;data_warehouse,France
+BI consultant,Néo-Soft_Solutions,ETL;Talend;ODI;Stambia;Oracle;SQL_SERVER,France
+BI consultant,AOSIS,QlikSense;Data_visualisation;data_modelling,France
+BI consultant,Frank_Recruitment_Group,data_warehouse;Datamart;BI;reporting;SSIS;SSAS;SSRS;Power_BI;DAX;MDX;SQL_SERVER;Big_Data;Machine_learning;R,France
+BI consultant,AZEO,Power_BI;SQL;Azure;reporting;Data_visualisation;SSIS;OLAP,France
+BI consultant,Talan,Microstrategy;BI;SQL;Oracle_Database,France
+BI consultant,VISEO,BI;SQL_SERVER;SSAS.SSIS;SSRS;Tableau;QlikView;Hana;BW;BODS,France
+BI consultant,Gfi_world,SSRS;SSIS;SSAS;Datastage;Power_BI;BW;BI;Cognos;Oracle;Azure;ODI;Informatica;TERADATA,France
+BI consultant,INTITEK,SSIS;SSRS;Informatica;Cognos;Business_Objects;SAP_BI;Oracle_BI;Agile,France
+BI consultant,OPEN,Proof_Of_Concept;ETL;Datastage;SSIS;SSAS;BW;Spotfire;Lumira;AP_BPC;Anaplan;Tagetik;Jedox;QlikView;QlikSense;Tableau;Power_BI;Spotfire;Lumira,France
+BI consultant,Quadra_Informatique,Python;BI;ETL;Tableau,France
+BI consultant,Keyrus,Informatica;Optimisation;English,France
+BI consultant,e-QUADRA,SQL_SERVER;SAP_BO,France
+BI consultant,Neovity,SSAS;SSRS;SSIS;PowerPivot;PowerView;SQL_Server,France
+BI consultant,SPIE_ICS,SSIS;SSAS;SSRS;MDX;DAX;SQL_SERVER,France
+BI consultant,Expectra,ETL;Statistics;Machine_learning;Python;Talend,France
+BI consultant,BSL_Consulting_LLC,ETL;Talend;Stambia;BI;SQL;SSAS;SSRS;SSIS;SQL;Spark;Hadoop;Cloud;Machine_learning;data_warehouse;BI,France
+BI consultant,Aessentia,SQL_SERVER;SSIS;SSAS;SSRS;Power_BI;QlikView;QlikSense,France
+BI consultant,INFOGENE,SSRS;SSAS;SSIS;PowerBI;SQL_SERVER,France
+BI consultant,FORTIL,ETL;reporting;datawarehouse;Scrum;PL_SQL;SAP,France
+BI consultant,Objectware,Business_Object;Datastage;Informatica;Cognos;Essbase;SAS,France
+BI consultant,CITECH,BigQuery;ETL;GCP;Windows,France
+BI consultant,DeciVision,ETL;data_warehouse;SAP;Power_BI,France
+BI consultant,Cavendish_Professionals,BW;BI;BO;Hana;SAP;English,France
+BI consultant,Fitae,Qv;Tableau;BO;JavaScript;SQL,France
+BI consultant,Tata_Consultancy_Services,AWS;Cloudera;SQL_Server;Tableau;SQL,France
+BI consultant,Amiltone,ETL;ESB;NoSQL;Talend;Qlik;Power_BI;Jasper;BIRT;SpagoBI;Oracle;SQL_Server;MySQL;PostgreSQL;NoSQL;MongoDB;Cassandra;InfluxDB;Elastic;SolR;Java;HTML;Javascript;Python,France
+BI consultant,Maltem_Consulting_Group,SSIS;SSRS;SSAS;SQL_SERVER;POWER_BI;Azure;BigQuery,France
+BI consultant,Magellan_Partners,BI;Big_Data;Machine_learning;Data_visualisation;SSIS;Power_BI;MDS;DQS;SSAS;SSRS;Azure;SQL_SERVER,France
+BI consultant,DEVOLIS,Oracle;SSAS;SSIS;SSRS;Power_BI;Azure;DAX,France
+BI consultant,Recrutor,ETL;Oracle;Informatica,France
+BI consultant,ELANZ-Groupe_APSIDE,English;reporting;Power_BI,France
+BI consultant,Everwin,QlikSense;Business_Object;QlikView;Tableau;Cognos;Oracle_Database;CRM;ERP,France
+BI consultant,eFrontech,Power_BI;QlikView;Tableau;Einstein_Analytics,France
+BI consultant,Robert_Walters,SAP_BI;Agile;Hana;BW;SQL,France
+BI consultant,Montreal_Associates,Power_BI;MDX;DAX;SSIS;SSAS;SSRS;Azure;Big_Data;English,France
+BI consultant,Sunevit_Company_International,Informatica;Talend;Genio;Datastage;SAS;Microstrategy;Tableau;QlikView,France
+BI consultant,Groupe_SII,Taland;Oracle;TERADATA;QlikView;Informatica;ETL,France
+BI consultant,Velvet_Consulting,Power_BI;QlikView;Tableau,France
+BI consultant,POLARYS,SSIS;SSAS;SSRS;SQL_Server;English,France
+BI consultant,HARDIS_GROUP,BI;Talend;Tableau;MSBI;SSIS;SSRS;SSAS;Power_BI;Informatica,France
+BI consultant,Groupe_LIP,Data_visualisation;SQL_Server;SSIS;SSAS;SSRS;Power_BI,France
+BI consultant,ESENS,ETL;reporting;Talend;SSIS;Datastage;Microstrategy;SSRS;BO,France
+Mobile developer,OneSpan,Java;Jenkins;Agile;French;English,France,https://www.linkedin.com/jobs/search/?currentJobId=1749491788&keywords=mobile%20developer
+Mobile developer,FOIL,iOS_SDK;Swift;Objective-C;English,France,https://www.linkedin.com/jobs/search/?currentJobId=1870585621&keywords=mobile%20developer
+Mobile developer,Kpler,Javascript;UI;data_structures;English;Algorithms,France,https://www.linkedin.com/jobs/search/?currentJobId=1658144782&keywords=mobile%20developer
+Mobile developer,Nokia,TCP/IP;Python;C++;Android;MySQL;Trust;Multi_processing;Telecom;Networking;testing,France,https://www.linkedin.com/jobs/search/?currentJobId=1846516779&keywords=mobile%20developer
+Mobile developer,Ogury Ltd,Objective-c;Android;SDK;iOS;English;Kotlin;Java;Swift;Gradle;Jenkins;Trevis,France,https://www.linkedin.com/jobs/search/?currentJobId=1852868900&keywords=mobile%20developer
+Mobile developer,Askin,Android;Java;Swift;Objective-C;Titanium;Xamarin;PhoneGap;Ionic;Cordova,France,https://www.linkedin.com/jobs/search/?currentJobId=1727629151&keywords=mobile%20developer
+Mobile developer,Esker France,TypeScript;ASP.NET;JavaScript;Web;C++;C#;Ionic;Cordova;Angular;Agile,France,https://www.linkedin.com/jobs/search/?currentJobId=1883863556&keywords=mobile%20developer
+Mobile developer,Dreem,Kotlin;Java;OOP;MVVM;LiveData;Automation;testing;Android;Swift;GitHub;Bluetooth;iOS,France,https://www.linkedin.com/jobs/search/?currentJobId=1889822150&keywords=mobile%20developer
+Mobile developer,Expectra,Android;XML;Java;Kotlin;iOS;Objective-C;Swift;Android;XCode;React_Native;Xamarin;Oracle;PostGreSQL;MySQL;SQL_SERVER;MCD;MPD;Merise;UML,France,https://www.linkedin.com/jobs/search/?currentJobId=1814371080&keywords=mobile%20developer
+Mobile developer,Huawei Consumer Business Group,Android;English;Chinese;communication,France,https://www.linkedin.com/jobs/search/?currentJobId=1848709918&keywords=mobile%20developer
+Mobile developer,FOIL,Objective-C;Swift;iOS,France,https://www.linkedin.com/jobs/search/?currentJobId=1870585621&keywords=mobile%20developer
+Mobile developer,SFEIR,C#;ASP.NET;Xamarin;MVC;Xamarin;Agile,France,https://www.linkedin.com/jobs/search/?currentJobId=1863134739&keywords=mobile%20developer
+Mobile developer,Ametix,Objective-C;iOS;Xcode;Android;HTML;CSS;Java;JavaScript;Cordova;Xamarin,France,https://www.linkedin.com/jobs/search/?currentJobId=1768211652&keywords=mobile%20developer
+Mobile developer,World Health Organization,Android;HTTP;REST;iOS,France,https://www.linkedin.com/jobs/search/?currentJobId=1844646480&keywords=mobile%20developer
+Mobile developer,Biggerpan,Android;IOS;NLP;Java;Kotlin;TensorFlow;CoreML;Javascript,France,https://www.linkedin.com/jobs/search/?keywords=mobile%20developer&start=25
+Mobile developer,Yodea Recrutement,Swift;Ionic;Agile,France,https://www.linkedin.com/jobs/search/?currentJobId=1822399692&keywords=mobile%20developer&start=25
+Mobile developer,La Relève,UX;UI;React_Native;React;NodeJS;GraphQL;Docker;Linux,France,https://www.linkedin.com/jobs/search/?currentJobId=1881994156&keywords=mobile%20developer&start=25
+Mobile developer,MobiappsFr,UX;Cordova;Ionic;Angular;Flutter;React_Native;MVVM;MVI;Agile;Scrum;Kamban;Jira;Confluence;Git;Gitlab;CI/CD;Jenkins,France,https://www.linkedin.com/jobs/search/?currentJobId=1773537083&keywords=mobile%20developer&start=25
+Mobile developer,Sogia Systeme,DevOps;iOS;Agile,France,https://www.linkedin.com/jobs/search/?currentJobId=1884097519&keywords=mobile%20developer&start=25
+Mobile developer,Harnham,Golang;Node.js;NoSQL;CassandraDB;AWS;Kubernetes;Docker,France,https://www.linkedin.com/jobs/search/?currentJobId=1843272345&keywords=mobile%20developer&start=25
+UX designer,Gfi world,ContentSquare;hotjar;google_analytics;Brainstorming;Impact_Mapping;Persona;UX_Map;Photoshop;Illustrator;Sketch;XD;;Balsamiq,France,https://www.linkedin.com/jobs/search/?currentJobId=1793250872&geoId=105015875&keywords=UX%20designer&location=France
+UX designer,SPAREKA,XD;Illustrator;Photoshop;HTML;CSS;Bootstrap;jQuery;SASS;git;JavaScript,France,https://www.linkedin.com/jobs/search/?currentJobId=1834645239&geoId=105015875&keywords=UX%20designer&location=France
+UX designer,TAK,Scrum;Design;UX;Kanban;testing,France,https://www.linkedin.com/jobs/search/?currentJobId=1862648764&geoId=105015875&keywords=UX%20designer&location=France
+UX designer,World of Digits,Wireframing;Design;Audit;Graphiques;UX,France,https://www.linkedin.com/jobs/search/?currentJobId=1862638039&geoId=105015875&keywords=UX%20designer&location=France
+UX designer,ITNOVEM,Design;UX;Sketch;Axure;Invision;Zeplin;Photoshop;Wireframing,France,https://www.linkedin.com/jobs/search/?currentJobId=1857275650&geoId=105015875&keywords=UX%20designer&location=France
+UX designer,FNAC DARTY,Axure;invision;sketch;Design;UX,France,https://www.linkedin.com/jobs/search/?currentJobId=1877738385&geoId=105015875&keywords=UX%20designer&location=France
+UX designer,Ubisoft,UX;UI;Sketch;Axure;English;Python;ActionScript,France,https://www.linkedin.com/jobs/search/?currentJobId=1882660837&geoId=105015875&keywords=UX%20designer&location=France
+UX designer,Shift Technology,UX_process;UX_research;UX_design;UI_design;English;French,France,https://www.linkedin.com/jobs/search/?currentJobId=1892240943&geoId=105015875&keywords=UX%20designer&location=France
+UX designer,FYTE,UX;UI;Sketch,France,https://www.linkedin.com/jobs/search/?currentJobId=1864064764&geoId=105015875&keywords=UX%20designer&location=France
+UX designer,Danone,communication;UX;UI;Agile;Scrum,France,https://www.linkedin.com/jobs/search/?geoId=105015875&keywords=UX%20designer&location=France&start=25
+UX designer,Niryo,iOS;Android;web;Illustrator;Photoshop;InDesign;Sketch;InVision;XD;Figma;After_Effects;Premiere,France,https://www.linkedin.com/jobs/search/?currentJobId=1888412659&geoId=105015875&keywords=UX%20designer&location=France&start=25
+UX designer,Ecedi,HTML;CSS;Javascript,France,https://www.linkedin.com/jobs/search/?currentJobId=1767484576&geoId=105015875&keywords=UX%20designer&location=France&start=25
+UX designer,Banque Casino,UX;XD;Photoshop;Illustrator;testing;AB_tasty;HTML;CSS;SEO,France,https://www.linkedin.com/jobs/search/?currentJobId=1864481133&geoId=105015875&keywords=UX%20designer&location=France&start=25
+UX designer,Clever Age,Adobe;Sketch;Axure;Marvel_App;InVision;Axure;Framer_JS,France,https://www.linkedin.com/jobs/search/?currentJobId=1877798824&geoId=105015875&keywords=UX%20designer&location=France&start=25
+UX designer,DOCAPOSTE,UX;UI;Sketch;Adobe;web,France,https://www.linkedin.com/jobs/search/?currentJobId=1878229416&geoId=105015875&keywords=UX%20designer&location=France&start=25

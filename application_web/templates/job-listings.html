@@ -1,0 +1,290 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <title>Vision</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/custom-bs.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/jquery.fancybox.min.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap-select.min.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='fonts/icomoon/style.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='fonts/line-icons/style.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/owl.carousel.min.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/animate.min.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">   
+
+  
+ 
+</head>
+
+<body id="top">
+
+
+  <div class="site-wrap">
+
+    <div class="site-mobile-menu site-navbar-target">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div> <!-- .site-mobile-menu -->
+
+
+    <!-- NAVBAR -->
+    <header class="site-navbar mt-3">
+      <div class="container-fluid">
+        <div class="row align-items-center">
+          <div class="site-logo col-6"><a href="index.html"><img width="160" height="80" src={{url_for('static', filename='images/logo.png')}} alt=""></a></div>
+
+          <nav class="mx-auto site-navigation">
+            <ul class="site-menu js-clone-nav d-none d-xl-block ml-0 pl-0">
+              <li><a href="index.html">Accueil</a></li>
+              <li><a href="job-listings.html" class="nav-link active">Recherche d'emploi</a></li>
+              <li><a href="certificats-listings.html">Certificats</a></li>
+              <li><a href="about.html">A propos</a></li>
+              <li class="d-lg-none"><a href="contact.html">Contactez nous</a></li>
+            </ul>
+          </nav>
+
+          <div class="right-cta-menu text-right d-flex aligin-items-center col-6">
+            <div class="ml-auto">
+              <a href="contact.html" class="btn btn-primary border-width-2 d-none d-lg-inline-block"><span
+                  class="mr-2 icon-paper-plane"></span>Contactez nous</a>
+            </div>
+            <a href="#" class="site-menu-toggle js-menu-toggle d-inline-block d-xl-none mt-lg-2 ml-3"><span
+                class="icon-menu h3 m-0 p-0 mt-2"></span></a>
+          </div>
+
+        </div>
+      </div>
+    </header>
+
+    <!-- HOME -->
+    <section class="home-section section-hero inner-page overlay bg-image" style="background-image: url({{ url_for('static', filename='images/bg_2.jpg')}});"
+      id="home-section">
+
+      <div class="container">
+        <div class="row align-items-center justify-content-center">
+          <div class="col-md-12">
+            <div class="mb-5 text-center">
+              <h1 class="text-white font-weight-bold">Vision sur l'avenir</h1>
+              <p>D&eacute;couvrez des offres selon vos comp&eacute;tences</p>
+            </div>
+             <center>
+            <form method="post" class="search-jobs-form justify-content-center" action="job-listings.html">
+              <div class=" mb-5">
+           
+                <div class="competences_input_div">
+                    <div class="form-group col-12 col-sm-12 col-md-12 col-lg-6 mb-8 mb-lg-1">
+                      <input type="text" required class="form-control form-control-lg" placeholder="Competence" id="competence_initial_job" name="competence_job[]">
+                    </div>
+                </div>
+                <div class="form-row justify-content-center">
+                    <div class="col-12 col-sm-6 col-md-6 col-lg-3 mb-4 mb-lg-0">
+                      <button type="submit" class="btn btn-primary btn-lg btn-block text-white btn-search"><span class="icon-search icon mr-2"></span>Chercher des offres</button>
+                    </div>
+                    <div class="col-12 col-sm-6 col-md-6 col-lg-3 mb-4 mb-lg-0">
+                        <button type="button" class="btn btn-success btn-lg btn-block text-white add-competence"><span class="icon-plus icon mr-2"></span> Ajouter une competence </button >
+                    </div>
+                </div>
+              </div>
+            </form>
+            </center>
+          </div>
+        </div>
+      </div>
+
+
+    </section>
+
+    <!-- HOME 
+    <section class="home-section section-hero inner-page overlay bg-image" style="background-image: url({{ url_for('static', filename='images/bg_2.jpg')}});"
+      id="home-section">
+
+      <div class="container">
+        <div class="row align-items-center justify-content-center">
+          <div class="col-md-12">
+            <div class="mb-5 text-center">
+              <h1 class="text-white font-weight-bold">Vision sur l'avenir</h1>
+              <p>D&eacute;couvrez des offres selon vos comp&eacute;tences</p>
+            </div>
+             <center>
+            <form method="post" class="search-jobs-form justify-content-center" action="job-listings.html">
+              <div class="row mb-5 justify-content-center">
+           
+                <div class="col-12 col-sm-6 col-md-6 col-lg-3 mb-4 mb-lg-0">
+                  <input type="text" required class="form-control form-control-lg" placeholder="Competence1; Competence2; ..." id="competence_job" name="competence_job">
+                </div>
+                <div class="col-12 col-sm-6 col-md-6 col-lg-3 mb-4 mb-lg-0">
+                  <button type="submit" class="btn btn-primary btn-lg btn-block text-white btn-search"><span class="icon-search icon mr-2"></span>Chercher des offres</button>
+                </div>
+              </div>
+            </form>
+            </center>
+          </div>
+        </div>
+      </div>
+
+    </section> -->
+    
+    
+    <section class="site-section">
+      <div class="container">
+
+        {% if submission_successful is defined %}
+        <div class="row mb-5 justify-content-center">
+          <div class="col-md-7 text-center">
+            <h2 class="section-title mb-2">Les meilleures offres pour vous sont :</h2>
+          </div>
+        </div>
+        
+        
+        <div class="mb-5">
+
+            <div class="row align-items-start job-item border-bottom pb-3 mb-3 pt-3 justify-content-center">
+
+            <div class="col-md-3">
+              <span class="meta">Entrprise</span>
+            </div>
+            <div class="col-md-3 text-left">  
+              <span class="meta">Emploi</span>
+            </div>
+
+            <div class="col-md-3 text-md-left">
+              <span class="meta">Lien</span>
+            </div>
+          </div>
+
+          {% for a in list_jobs %}
+          <div class="row align-items-start job-item border-bottom pb-3 mb-3 pt-3 justify-content-center">
+           
+            <div class="col-md-3">
+              <h2><a >{{a[0]}}</a> </h2>
+            </div>
+            <div class="col-md-3 text-left">         
+              <span class="meta"><h3>{{a[1]}}</h3></span>
+            </div>
+            <div class="col-md-3 text-md-left justify-content-center">
+                {% if a[2]  %}
+                 <a href ={{a[2]}} target="_blank"> <span class="badge badge-primary px-2 py-1 mb-3"> lien d'acces</span> </a>
+                {% else %}
+                    <p> lien non disponible</p>
+                {% endif %}
+             
+            </div>
+            
+          </div>
+          {% endfor %}
+          {% endif %}
+
+
+      </div>
+    </section>
+
+    
+
+
+    <!--<section class="py-5 bg-image overlay-primary fixed overlay" style="background-image: url({{url_for('static', filename='images/hero_1.jpg')}});">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-md-8">
+            <h2 class="text-white">A la recherche d'emploi?</h2>
+          </div>
+          <div class="col-md-3 ml-auto">
+            <a href="job-listings.html" class="btn btn-warning btn-block btn-lg">Proposition d'offres</a>
+          </div>
+        </div>
+      </div>
+    </section>-->
+    
+    <footer class="site-footer">
+
+      
+      <div class="container">
+
+        <div class="row text-center">
+          <div class="col-12">
+            <p>
+              Copyright &copy;
+              <script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i
+                class="icon-heart-o" aria-hidden="true"></i> by Colorlib
+              <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+  
+  </div>
+
+    <!-- SCRIPTS -->
+    <script src="{{url_for('static', filename='js/jquery.min.js')}}"></script>
+    <script src="{{url_for('static', filename='js/bootstrap.bundle.min.js')}}"></script>
+    <script src="{{url_for('static', filename='js/isotope.pkgd.min.js')}}"></script>
+    <script src="{{url_for('static', filename='js/stickyfill.min.js')}}"></script>
+    <script src="{{url_for('static', filename='js/jquery.fancybox.min.js')}}"></script>
+    <script src="{{url_for('static', filename='js/jquery.easing.1.3.js')}}"></script>
+    
+    <script src="{{url_for('static', filename='js/jquery.waypoints.min.js')}}"></script>
+    <script src="{{url_for('static', filename='js/jquery.animateNumber.min.js')}}"></script>
+    <script src="{{url_for('static', filename='js/owl.carousel.min.js')}}"></script>
+    
+    <script src="{{url_for('static', filename='js/custom.js')}}"></script>
+
+    <script>
+      $(document).ready(function(){
+        $(this).on("click", ".add-competence", function(){
+
+            var html_comp = '<div class="form-group col-12 col-sm-12 col-md-12 col-lg-6 mb-8 mb-lg-1"> \
+                    <div class="form-row "> \
+                    <div class="col-12 col-sm-8 col-md-8 col-lg-9 mb-6 mb-lg-1"> \
+                      <input type="text" required class="form-control form-control-lg" placeholder="Ajouter une nouvelle competence" id="competence_job" name="competence_job[]" required> \
+                    </div> \
+                    <div class="col-12 col-sm-4 col-md-4 col-lg-3 mb-2 mb-lg-1"> \
+                        <button type="button" class="btn btn-danger btn-lg btn-block text-white remove-competence">  Supprimer </button > \
+                    </div> \
+                </div></div>';
+
+             $(".competences_input_div").append(html_comp);
+		});
+
+        
+      
+
+       $(document).on("click", ".remove-competence", function(){
+           var target = $(this).parent().parent().parent();
+           target.remove();
+        });
+
+        if ({{user_skills |safe}}){
+            user_skills = {{user_skills |safe}}
+            document.getElementById("competence_initial_job").value= user_skills[0];
+            for(i = 1; i<user_skills.length; i++){
+                skill = user_skills[i];
+                var html_comp = '<div class="form-group col-12 col-sm-12 col-md-12 col-lg-6 mb-8 mb-lg-1"> \
+                        <div class="form-row "> \
+                        <div class="col-12 col-sm-8 col-md-8 col-lg-9 mb-6 mb-lg-1"> \
+                          <input type="text" required class="form-control form-control-lg" placeholder="Ajouter une nouvelle competence" id="competence_job_" value="'+skill+'" name="competence_job[]" > \
+                        </div> \
+                        <div class="col-12 col-sm-4 col-md-4 col-lg-3 mb-2 mb-lg-1"> \
+                            <button type="button" class="btn btn-danger btn-lg btn-block text-white remove-competence">  Supprimer </button > \
+                        </div> \
+                    </div></div>';
+
+                 $(".competences_input_div").append(html_comp);
+             }
+   		}
+      
+      });
+
+
+
+
+    </script>
+
+
+  </body>
+</html>
